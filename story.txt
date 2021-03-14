@@ -4,4 +4,4 @@ Carlos is 21 years old and he born in Mexico
 
 Today we will talk about his path as a web developer
 
-Testing testing testing
+Right now is learning about html, css, git and soon about js
