@@ -19,14 +19,10 @@ body{
     color: white;
     font-weight: bold;
 }
-.logo{
-    display: inline-block;
-    width: 25px;
-    height: 25px;
-    /* line-height: 50px; */
-    vertical-align: middle;
-    background-image: url(../images/dragon.png);
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
+footer{
+    background-color: purple;
+    margin: 0 auto;
+    color: white;
+    padding: 20px;
+    width: 70%;
 }
