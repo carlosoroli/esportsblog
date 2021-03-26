@@ -1,2 +1,7 @@
 # esportsblog
-An esports blog made by gamers to gamers
+An esports blog made by gamers to gamers 
+
+* League of Legends
+* Counter Strike
+* Warzone
+
