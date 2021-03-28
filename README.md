@@ -10,3 +10,4 @@ An esports blog made by gamers to gamers
 
 * Para noobs y pros
 * Shooters y mobas
+* Tutoriales y noticias
