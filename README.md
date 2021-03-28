@@ -8,3 +8,4 @@ An esports blog made by gamers to gamers
 * Counter Strike
 * Warzone
 
+* Para noobs y pros
